@@ -1,0 +1,51 @@
+PartnerCompany,PartnerCode,Domain,TargetLevel
+Partner L1,CODE-00018,Data Communication,Basic
+Partner L1,CODE-00018,Storage,Basic
+Partner D12,CODE-00020,Data Communication,Basic
+Partner O18,CODE-00001,,
+Partner M21,CODE-00004,Storage,Advanced
+Partner M21,CODE-00004,Enterprise Services and Software,Basic
+Partner M21,CODE-00004,Data Communication,Master
+Partner E8,CODE-00008,Data Communication,Advanced
+Partner C10,CODE-00017,Data Communication,Advanced
+Partner C10,CODE-00017,Storage,Advanced
+Partner C10,CODE-00017,Enterprise Services and Software,Advanced
+Partner U27,CODE-00002,,
+Partner I14,CODE-00015,,
+Partner C8,CODE-00006,,
+Partner H3,CODE-00027,Data Communication,Basic
+Partner H3,CODE-00027,Storage,Basic
+Partner W31,CODE-00022,,
+Partner E28,CODE-00026,,
+Partner F22,CODE-00013,Data Communication,Basic
+Partner F22,CODE-00013,Storage,Basic
+Partner L13,CODE-00005,Enterprise Services and Software,Basic
+Partner L13,CODE-00005,Optical,Basic
+Partner L13,CODE-00005,Data Communication,Advanced
+Partner L13,CODE-00005,Storage,Advanced
+Partner P30,CODE-00012,Data Communication,Basic
+Partner P30,CODE-00012,Storage,Basic
+Partner P30,CODE-00012,Enterprise Services and Software,Basic
+Partner C15,CODE-00019,,
+Partner T15,CODE-00003,Data Communication,Advanced
+Partner T15,CODE-00003,Storage,Advanced
+Partner T15,CODE-00003,Enterprise Services and Software,Advanced
+Partner Z24,CODE-00021,,
+Partner U4,CODE-00016,,
+Partner Q35,CODE-00009,Storage,Basic
+Partner Q35,CODE-00009,Data Communication,Advanced
+Partner Q35,CODE-00009,Enterprise Services and Software,Advanced
+Partner Q35,CODE-00009,Optical,Master
+Partner L12,CODE-00011,,
+Partner A18,CODE-00028,,
+Partner G30,CODE-00024,,
+Partner I5,CODE-00010,Data Communication,Basic
+Partner I5,CODE-00010,Enterprise Services and Software,Basic
+Partner I5,CODE-00010,Storage,Advanced
+Partner Y9,CODE-00023,,
+Partner Q5,CODE-00007,Data Communication,Master
+Partner Q5,CODE-00007,Storage,Master
+Partner Q5,CODE-00007,Enterprise Services and Software,Master
+Partner S36,CODE-00014,Data Communication,Basic
+Partner S36,CODE-00014,Storage,Basic
+Partner W9,CODE-00025,,

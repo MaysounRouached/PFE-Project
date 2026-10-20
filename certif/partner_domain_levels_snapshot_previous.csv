@@ -1,0 +1,77 @@
+伙伴公司名称/Partner Companies,伙伴编码/Partner Code,MatchedDomain,PartnerLevel
+Partner A18,CODE-00028,Data Communication,None
+Partner A18,CODE-00028,Enterprise Services and Software,None
+Partner C10,CODE-00017,Data Communication,Basic
+Partner C10,CODE-00017,Enterprise Services and Software,Basic
+Partner C10,CODE-00017,Intelligent Collaboration,None
+Partner C10,CODE-00017,Optical,None
+Partner C10,CODE-00017,Storage,Basic
+Partner C15,CODE-00019,Data Communication,None
+Partner C15,CODE-00019,Enterprise Services and Software,None
+Partner C15,CODE-00019,Storage,None
+Partner C8,CODE-00006,Enterprise Services and Software,None
+Partner C8,CODE-00006,Intelligent Collaboration,None
+Partner D12,CODE-00020,Data Communication,None
+Partner D12,CODE-00020,Enterprise Services and Software,None
+Partner E28,CODE-00026,Enterprise Services and Software,None
+Partner E28,CODE-00026,Storage,None
+Partner E8,CODE-00008,Data Communication,None
+Partner E8,CODE-00008,Enterprise Services and Software,None
+Partner F22,CODE-00013,Data Communication,Basic
+Partner F22,CODE-00013,Enterprise Services and Software,None
+Partner F22,CODE-00013,Storage,None
+Partner G30,CODE-00024,Enterprise Services and Software,None
+Partner G30,CODE-00024,Storage,None
+Partner H3,CODE-00027,Data Communication,None
+Partner H3,CODE-00027,Enterprise Services and Software,None
+Partner H3,CODE-00027,Storage,None
+Partner I14,CODE-00015,Data Communication,None
+Partner I14,CODE-00015,Enterprise Services and Software,None
+Partner I5,CODE-00010,Data Communication,None
+Partner I5,CODE-00010,Enterprise Services and Software,Basic
+Partner I5,CODE-00010,Optical,None
+Partner I5,CODE-00010,Storage,Advanced
+Partner L1,CODE-00018,Data Communication,Advanced
+Partner L1,CODE-00018,Enterprise Services and Software,None
+Partner L1,CODE-00018,Storage,Basic
+Partner L12,CODE-00011,Data Communication,None
+Partner L12,CODE-00011,Enterprise Services and Software,None
+Partner L13,CODE-00005,Data Communication,Advanced
+Partner L13,CODE-00005,Enterprise Services and Software,Basic
+Partner L13,CODE-00005,Intelligent Collaboration,None
+Partner L13,CODE-00005,Optical,Basic
+Partner L13,CODE-00005,Storage,None
+Partner M21,CODE-00004,Data Communication,Advanced
+Partner M21,CODE-00004,Enterprise Services and Software,Basic
+Partner M21,CODE-00004,Intelligent Collaboration,None
+Partner M21,CODE-00004,Storage,Advanced
+Partner O18,CODE-00001,Enterprise Services and Software,None
+Partner O18,CODE-00001,Intelligent Collaboration,None
+Partner O18,CODE-00001,Optical,None
+Partner O18,CODE-00001,Storage,None
+Partner P30,CODE-00012,Data Communication,Basic
+Partner P30,CODE-00012,Enterprise Services and Software,Basic
+Partner P30,CODE-00012,Storage,Basic
+Partner Q35,CODE-00009,Data Communication,Advanced
+Partner Q35,CODE-00009,Enterprise Services and Software,Basic
+Partner Q35,CODE-00009,Optical,Advanced
+Partner Q35,CODE-00009,Storage,None
+Partner Q5,CODE-00007,Data Communication,Master
+Partner Q5,CODE-00007,Enterprise Services and Software,Advanced
+Partner Q5,CODE-00007,Intelligent Collaboration,None
+Partner Q5,CODE-00007,Storage,Master
+Partner S36,CODE-00014,Data Communication,None
+Partner S36,CODE-00014,Enterprise Services and Software,None
+Partner S36,CODE-00014,Storage,None
+Partner T15,CODE-00003,Data Communication,None
+Partner T15,CODE-00003,Enterprise Services and Software,Advanced
+Partner T15,CODE-00003,Intelligent Collaboration,None
+Partner T15,CODE-00003,Optical,None
+Partner T15,CODE-00003,Storage,Advanced
+Partner U27,CODE-00002,Data Communication,None
+Partner U27,CODE-00002,Enterprise Services and Software,None
+Partner U4,CODE-00016,Data Communication,None
+Partner U4,CODE-00016,Enterprise Services and Software,None
+Partner Y9,CODE-00023,Data Communication,None
+Partner Y9,CODE-00023,Enterprise Services and Software,None
+Partner Y9,CODE-00023,Storage,None
